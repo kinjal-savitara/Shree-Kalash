@@ -64,9 +64,7 @@ const handleSubmit = (e) => {
         style={{ display: "block", border: "none" }}
       ></iframe>:null}
  
-          // <div style={{ position: "fixed", top: 0, left: 0, width: "100%", height: "100%", zIndex: 9999 }}>
-          //   <iframe src="https://biganto.com/tour/46401/?iframe=1" width="100%" height="100%" frameborder="0" scrolling="0" seamless="seamless" allowfullscreen="allowfullscreen"></iframe>
-          // </div>
+           
     </div>
 
 
