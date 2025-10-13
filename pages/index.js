@@ -21,10 +21,10 @@ export default function Home() {
     const tour = params.get("tour");
 
     // Map query param to iframe links
-    let url = "https://biganto.com/tour/46401/?iframe=1"; // default
+    let url = ""; // default
     if (tour === "virtual-tour") {
       url = "https://biganto.com/tour/46401/?iframe=1";
-    } else if (tour === "interior") {
+    } else  {
       url = "https://biganto.com/tour/46741/?iframe=1";
     }
 
