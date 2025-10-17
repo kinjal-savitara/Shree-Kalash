@@ -25,7 +25,7 @@ export default function Home() {
     if (tour === "interior") {
       url = "https://biganto.com/tour/46741/?iframe=1";
     } else  {
-      url = "https://biganto.com/tour/46401/?iframe=1";
+      url = "https://biganto.com/tour/46794/?iframe=1";
     }
 
     setIframeUrl(url);
